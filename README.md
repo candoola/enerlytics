@@ -1,5 +1,4 @@
 # enerlytics
 
-Energy Analytics for machine tools.
-Just a Test.
-Wieso geht das nicht?
+Energy Analytics for machine tools
+M.Sc. work
